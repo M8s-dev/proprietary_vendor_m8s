@@ -43,7 +43,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/htc/m8qlul/proprietary/bin/rild:system/bin/rild \
     vendor/htc/m8qlul/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-    vendor/htc/m8qlul/proprietary/bin/sensorservice:system/bin/sensorservice \
     vendor/htc/m8qlul/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
     vendor/htc/m8qlul/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/htc/m8qlul/proprietary/bin/time_daemon:system/bin/time_daemon \
