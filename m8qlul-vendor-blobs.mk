@@ -173,11 +173,13 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/etc/tfa/voip_l.preset:system/etc/tfa/voip_l.preset \
     vendor/htc/m8qlul/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/htc/m8qlul/proprietary/lib/drm/libhtcomaplugin.so:system/lib/drm/libhtcomaplugin.so \
+    vendor/htc/m8qlul/proprietary/lib/hw/audio.mirrorlink.default.so:system/lib/hw/audio.mirrorlink.default.so \
     vendor/htc/m8qlul/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/htc/m8qlul/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/htc/m8qlul/proprietary/lib/hw/power.htc.so:system/lib/hw/power.htc.so \
     vendor/htc/m8qlul/proprietary/lib/hw/power.qcom.so:system/lib/hw/power.qcom.so \
     vendor/htc/m8qlul/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
+    vendor/htc/m8qlul/proprietary/lib/hw/wbc_hal.default.so:system/lib/hw/wbc_hal.default.so \
     vendor/htc/m8qlul/proprietary/lib/libBeautyChat.so:system/lib/libBeautyChat.so \
     vendor/htc/m8qlul/proprietary/lib/libalDE.so:system/lib/libalDE.so \
     vendor/htc/m8qlul/proprietary/lib/libalDynamicWarping.so:system/lib/libalDynamicWarping.so \
@@ -251,10 +253,12 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libtuning_awb_imx214_htc.so:system/lib/libtuning_awb_imx214_htc.so \
     vendor/htc/m8qlul/proprietary/lib/libtuning_awb_s5k5e_htc.so:system/lib/libtuning_awb_s5k5e_htc.so \
     vendor/htc/m8qlul/proprietary/lib64/drm/libhtcomaplugin.so:system/lib64/drm/libhtcomaplugin.so \
+    vendor/htc/m8qlul/proprietary/lib64/hw/audio.mirrorlink.default.so:system/lib64/hw/audio.mirrorlink.default.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/power.htc.so:system/lib64/hw/power.htc.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/power.qcom.so:system/lib64/hw/power.qcom.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/sensors.msm8916.so:system/lib64/hw/sensors.msm8916.so \
+    vendor/htc/m8qlul/proprietary/lib64/hw/wbc_hal.default.so:system/lib64/hw/wbc_hal.default.so \
     vendor/htc/m8qlul/proprietary/lib64/libawb_calibration.so:system/lib64/libawb_calibration.so \
     vendor/htc/m8qlul/proprietary/lib64/libcamera_aec.so:system/lib64/libcamera_aec.so \
     vendor/htc/m8qlul/proprietary/lib64/libcamera_af.so:system/lib64/libcamera_af.so \
