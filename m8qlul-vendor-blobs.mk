@@ -170,7 +170,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/etc/tfa/voip_l.drc:system/etc/tfa/voip_l.drc \
     vendor/htc/m8qlul/proprietary/etc/tfa/voip_l.eq:system/etc/tfa/voip_l.eq \
     vendor/htc/m8qlul/proprietary/etc/tfa/voip_l.preset:system/etc/tfa/voip_l.preset \
-    vendor/htc/m8qlul/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/htc/m8qlul/proprietary/lib/drm/libhtcomaplugin.so:system/lib/drm/libhtcomaplugin.so \
     vendor/htc/m8qlul/proprietary/lib/hw/audio.mirrorlink.default.so:system/lib/hw/audio.mirrorlink.default.so \
     vendor/htc/m8qlul/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
@@ -202,9 +201,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libhtcflag-jni.so:system/lib/libhtcflag-jni.so \
     vendor/htc/m8qlul/proprietary/lib/libhtcqxdm2sd.so:system/lib/libhtcqxdm2sd.so \
     vendor/htc/m8qlul/proprietary/lib/libhtcsecure.so:system/lib/libhtcsecure.so \
-    vendor/htc/m8qlul/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/htc/m8qlul/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/htc/m8qlul/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/htc/m8qlul/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/htc/m8qlul/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/htc/m8qlul/proprietary/lib/libmmcamera_ait9882proc.so:system/lib/libmmcamera_ait9882proc.so \
@@ -272,9 +269,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib64/libhtcflag-jni.so:system/lib64/libhtcflag-jni.so \
     vendor/htc/m8qlul/proprietary/lib64/libhtcqxdm2sd.so:system/lib64/libhtcqxdm2sd.so \
     vendor/htc/m8qlul/proprietary/lib64/libhtcsecure.so:system/lib64/libhtcsecure.so \
-    vendor/htc/m8qlul/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
     vendor/htc/m8qlul/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
-    vendor/htc/m8qlul/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/htc/m8qlul/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/htc/m8qlul/proprietary/lib64/libposteffect.so:system/lib64/libposteffect.so \
     vendor/htc/m8qlul/proprietary/lib64/libril.so:system/lib64/libril.so \
@@ -673,7 +668,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libprdrmdecrypt.so:system/vendor/lib/libprdrmdecrypt.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
-    vendor/htc/m8qlul/proprietary/vendor/lib/libqct_resampler.so:system/vendor/lib/libqct_resampler.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libqdi.so:system/vendor/lib/libqdi.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libqdp.so:system/vendor/lib/libqdp.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
@@ -703,7 +697,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/vendor/lib/libsubsystem_control.so:system/vendor/lib/libsubsystem_control.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
-    vendor/htc/m8qlul/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libtzplayready.so:system/vendor/lib/libtzplayready.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libvcel.so:system/vendor/lib/libvcel.so \
@@ -881,7 +874,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libthermalclient.so:system/vendor/lib64/libthermalclient.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
-    vendor/htc/m8qlul/proprietary/vendor/lib64/libtime_genoff.so:system/vendor/lib64/libtime_genoff.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libtzdrmgenprov.so:system/vendor/lib64/libtzdrmgenprov.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libtzplayready.so:system/vendor/lib64/libtzplayready.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libvcel.so:system/vendor/lib64/libvcel.so \

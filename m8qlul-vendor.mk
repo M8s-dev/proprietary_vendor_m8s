@@ -20,6 +20,8 @@ PRODUCT_PACKAGES += \
     qcrilhook \
     libloc_api_v02 \
     libloc_ds_api \
-    libtime_genoff
+    libtime_genoff \
+    libqct_resampler \
+    libTimeService
 
 $(call inherit-product, vendor/htc/m8qlul/m8qlul-vendor-blobs.mk)
