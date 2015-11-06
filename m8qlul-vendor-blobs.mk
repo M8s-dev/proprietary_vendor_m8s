@@ -14,8 +14,6 @@
 # limitations under the License.
 
 PRODUCT_COPY_FILES += \
-    vendor/htc/m8qlul/proprietary/app/EasyAccessService.apk:system/app/EasyAccessService.apk \
-    vendor/htc/m8qlul/proprietary/app/TimeService.apk:system/app/TimeService.apk \
     vendor/htc/m8qlul/proprietary/bin/dual_camera:system/bin/dual_camera \
     vendor/htc/m8qlul/proprietary/bin/cand:system/bin/cand \
     vendor/htc/m8qlul/proprietary/bin/cnd:system/bin/cnd \
