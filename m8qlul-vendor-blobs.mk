@@ -64,7 +64,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/etc/acdbdata/MTP/Headset_cal.acdb:system/etc/acdbdata/MTP/Headset_cal.acdb \
     vendor/htc/m8qlul/proprietary/etc/acdbdata/MTP/Speaker_cal.acdb:system/etc/acdbdata/MTP/Speaker_cal.acdb \
     vendor/htc/m8qlul/proprietary/etc/acdbdata/MTP/Speaker_cal.acdb:system/etc/acdbdata/MTP/Speaker_cal.acdb \
-    vendor/htc/m8qlul/proprietary/etc/audio_effects.conf:system/vendor/etc/audio_effects.conf \
     vendor/htc/m8qlul/proprietary/etc/firmware/ILP0100_IPM_Code_out.bin:system/etc/firmware/ILP0100_IPM_Code_out.bin \
     vendor/htc/m8qlul/proprietary/etc/firmware/ILP0100_IPM_Data_out.bin:system/etc/firmware/ILP0100_IPM_Data_out.bin \
     vendor/htc/m8qlul/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
