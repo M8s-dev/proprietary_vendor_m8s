@@ -15,7 +15,6 @@
 # Pick up overlay for features that depend on non-open-source files
 
 PRODUCT_PACKAGES += \
-    EasyAccessService \
     TimeService \
     qcrilhook \
     libloc_api_v02 \
