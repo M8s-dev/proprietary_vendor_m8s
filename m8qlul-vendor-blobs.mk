@@ -210,6 +210,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/htc/m8qlul/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/htc/m8qlul/proprietary/lib/librilutils.so:system/lib/librilutils.so \
+    vendor/htc/m8qlul/proprietary/lib/libsrsprocessing.so:system/lib/libsrsprocessing.so \
     vendor/htc/m8qlul/proprietary/lib/libtuning_aec.so:system/lib/libtuning_aec.so \
     vendor/htc/m8qlul/proprietary/lib/libtuning_aec_imx214_htc_hdr.so:system/lib/libtuning_aec_imx214_htc_hdr.so \
     vendor/htc/m8qlul/proprietary/lib/libtuning_aec_imx214_htc_hdr_16_9.so:system/lib/libtuning_aec_imx214_htc_hdr_16_9.so \
@@ -271,6 +272,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib64/libtuning_af.so:system/lib64/libtuning_af.so \
     vendor/htc/m8qlul/proprietary/lib64/libtuning_af_lc898212_imx214.so:system/lib64/libtuning_af_lc898212_imx214.so \
     vendor/htc/m8qlul/proprietary/lib64/libtuning_awb.so:system/lib64/libtuning_awb.so \
+    vendor/htc/m8qlul/proprietary/lib64/libwifi-hal-qcom.so:system/lib64/libwifi-hal-qcom.so \
     vendor/htc/m8qlul/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/htc/m8qlul/proprietary/vendor/firmware/keymaster.b00:system/vendor/firmware/keymaster.b00 \
     vendor/htc/m8qlul/proprietary/vendor/firmware/keymaster.b01:system/vendor/firmware/keymaster.b01 \
