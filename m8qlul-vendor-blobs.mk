@@ -35,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/htc/m8qlul/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/htc/m8qlul/proprietary/bin/radish:system/bin/radish \
-    vendor/htc/m8qlul/proprietary/bin/rild:system/bin/rild \
     vendor/htc/m8qlul/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/htc/m8qlul/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/htc/m8qlul/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
@@ -200,7 +199,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
     vendor/htc/m8qlul/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/htc/m8qlul/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
-    vendor/htc/m8qlul/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/htc/m8qlul/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/htc/m8qlul/proprietary/lib/libsrsprocessing.so:system/lib/libsrsprocessing.so \
     vendor/htc/m8qlul/proprietary/lib/libtuning_aec.so:system/lib/libtuning_aec.so \
@@ -256,7 +254,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib64/libhtcsecure.so:system/lib64/libhtcsecure.so \
     vendor/htc/m8qlul/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
     vendor/htc/m8qlul/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
-    vendor/htc/m8qlul/proprietary/lib64/libril.so:system/lib64/libril.so \
     vendor/htc/m8qlul/proprietary/lib64/librilutils.so:system/lib64/librilutils.so \
     vendor/htc/m8qlul/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
     vendor/htc/m8qlul/proprietary/lib64/libtuning_aec.so:system/lib64/libtuning_aec.so \
