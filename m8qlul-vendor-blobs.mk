@@ -423,6 +423,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_imx214_snapshot.so:system/vendor/lib/libchromatix_imx214_snapshot.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_imx214_snapshot_hdr.so:system/vendor/lib/libchromatix_imx214_snapshot_hdr.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_imx214_video_hdr.so:system/vendor/lib/libchromatix_imx214_video_hdr.so \
+    vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_imx214_htc_hdr.so:system/vendor/lib/libchromatix_imx214_htc_hdr.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_ov13850_common.so:system/vendor/lib/libchromatix_ov13850_common.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_ov13850_default_video.so:system/vendor/lib/libchromatix_ov13850_default_video.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_ov13850_hfr_120fps.so:system/vendor/lib/libchromatix_ov13850_hfr_120fps.so \
@@ -532,6 +533,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_s5k5e_htc_common.so:system/vendor/lib/libchromatix_s5k5e_htc_common.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_s5k5e_htc_default_video.so:system/vendor/lib/libchromatix_s5k5e_htc_default_video.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_s5k5e_htc_hfr.so:system/vendor/lib/libchromatix_s5k5e_htc_hfr.so \
+    vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_s5k5e_htc_hdr.so:system/vendor/lib/libchromatix_s5k5e_htc_hdr.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_s5k5e_htc_preview.so:system/vendor/lib/libchromatix_s5k5e_htc_preview.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_common.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so:system/vendor/lib/libchromatix_skuab_shinetech_gc0339_default_video.so \
@@ -782,6 +784,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_imx214_preview.so:system/vendor/lib64/libchromatix_imx214_preview.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_imx214_snapshot.so:system/vendor/lib64/libchromatix_imx214_snapshot.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_imx214_snapshot_hdr.so:system/vendor/lib64/libchromatix_imx214_snapshot_hdr.so \
+    vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_imx214_htc_hdr.so:system/vendor/lib64/libchromatix_imx214_htc_hdr.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_imx214_video_hdr.so:system/vendor/lib64/libchromatix_imx214_video_hdr.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_ov13850_default_video.so:system/vendor/lib64/libchromatix_ov13850_default_video.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_ov16825_common.so:system/vendor/lib64/libchromatix_ov16825_common.so \
@@ -808,6 +811,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_s5k5e_htc_common.so:system/vendor/lib64/libchromatix_s5k5e_htc_common.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_s5k5e_htc_default_video.so:system/vendor/lib64/libchromatix_s5k5e_htc_default_video.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_s5k5e_htc_hfr.so:system/vendor/lib64/libchromatix_s5k5e_htc_hfr.so \
+    vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_s5k5e_htc_hdr.so:system/vendor/lib64/libchromatix_s5k5e_htc_hdr.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libchromatix_s5k5e_htc_preview.so:system/vendor/lib64/libchromatix_s5k5e_htc_preview.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libcne.so:system/vendor/lib64/libcne.so \
     vendor/htc/m8qlul/proprietary/vendor/lib64/libcneapiclient.so:system/vendor/lib64/libcneapiclient.so \
