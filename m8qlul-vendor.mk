@@ -16,7 +16,6 @@
 
 # Pick up overlay for features that depend on non-open-source files
 PRODUCT_PACKAGES += \
-    qcrilhook \
     libloc_api_v02 \
     libloc_ds_api \
     libtime_genoff

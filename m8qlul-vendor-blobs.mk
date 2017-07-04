@@ -154,7 +154,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/etc/tfa/voip_l.drc:system/etc/tfa/voip_l.drc \
     vendor/htc/m8qlul/proprietary/etc/tfa/voip_l.eq:system/etc/tfa/voip_l.eq \
     vendor/htc/m8qlul/proprietary/etc/tfa/voip_l.preset:system/etc/tfa/voip_l.preset \
-    vendor/htc/m8qlul/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/htc/m8qlul/proprietary/lib/drm/libhtcomaplugin.so:system/lib/drm/libhtcomaplugin.so \
     vendor/htc/m8qlul/proprietary/lib/hw/audio.mirrorlink.default.so:system/lib/hw/audio.mirrorlink.default.so \
     vendor/htc/m8qlul/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
