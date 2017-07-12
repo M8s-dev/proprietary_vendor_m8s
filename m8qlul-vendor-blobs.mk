@@ -41,7 +41,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/htc/m8qlul/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
     vendor/htc/m8qlul/proprietary/bin/vm_bms:system/bin/vm_bms \
-    vendor/htc/m8qlul/proprietary/bin/thermal-engine:system/bin/thermal-engine \
     vendor/htc/m8qlul/proprietary/etc/RT5501:system/etc/RT5501 \
     vendor/htc/m8qlul/proprietary/etc/acdbdata/MTP/Bluetooth_cal.acdb:system/etc/acdbdata/MTP/Bluetooth_cal.acdb \
     vendor/htc/m8qlul/proprietary/etc/acdbdata/MTP/General_cal.acdb:system/etc/acdbdata/MTP/General_cal.acdb \
@@ -264,6 +263,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib64/libwifi-hal-qcom.so:system/lib64/libwifi-hal-qcom.so \
     vendor/htc/m8qlul/proprietary/lib64/libhtc_rilhook.so:system/lib64/libhtc_rilhook.so \
     vendor/htc/m8qlul/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
+    vendor/htc/m8qlul/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/htc/m8qlul/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
     vendor/htc/m8qlul/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/htc/m8qlul/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
