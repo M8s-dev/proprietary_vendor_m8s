@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/htc/m8qlul/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
     vendor/htc/m8qlul/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/htc/m8qlul/proprietary/bin/memlock:system/bin/memlock \
     vendor/htc/m8qlul/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
     vendor/htc/m8qlul/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/htc/m8qlul/proprietary/bin/nl_listener:system/bin/nl_listener \
