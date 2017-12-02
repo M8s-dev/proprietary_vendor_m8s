@@ -171,7 +171,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libcamera_aec.so:system/lib/libcamera_aec.so \
     vendor/htc/m8qlul/proprietary/lib/libcamera_af.so:system/lib/libcamera_af.so \
     vendor/htc/m8qlul/proprietary/lib/libcamera_awb.so:system/lib/libcamera_awb.so \
-    vendor/htc/m8qlul/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/htc/m8qlul/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
     vendor/htc/m8qlul/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
     vendor/htc/m8qlul/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
@@ -228,7 +227,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libtuning_awb_s5k5e_htc.so:system/lib/libtuning_awb_s5k5e_htc.so \
     vendor/htc/m8qlul/proprietary/lib/libposteffect.so:system/lib/libposteffect.so \
     vendor/htc/m8qlul/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
-    vendor/htc/m8qlul/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
     vendor/htc/m8qlul/proprietary/lib64/drm/libhtcomaplugin.so:system/lib64/drm/libhtcomaplugin.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/audio.mirrorlink.default.so:system/lib64/hw/audio.mirrorlink.default.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
@@ -243,7 +241,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib64/libcamera_aec.so:system/lib64/libcamera_aec.so \
     vendor/htc/m8qlul/proprietary/lib64/libcamera_af.so:system/lib64/libcamera_af.so \
     vendor/htc/m8qlul/proprietary/lib64/libcamera_awb.so:system/lib64/libcamera_awb.so \
-    vendor/htc/m8qlul/proprietary/lib64/libcamera_client.so:system/lib64/libcamera_client.so \
     vendor/htc/m8qlul/proprietary/lib64/libcnefeatureconfig.so:system/lib64/libcnefeatureconfig.so \
     vendor/htc/m8qlul/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/htc/m8qlul/proprietary/lib64/libhtc_loglevel.so:system/lib64/libhtc_loglevel.so \
