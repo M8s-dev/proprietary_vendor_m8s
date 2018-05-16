@@ -156,7 +156,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/etc/tfa/voip_l.preset:system/etc/tfa/voip_l.preset \
     vendor/htc/m8qlul/proprietary/lib/drm/libhtcomaplugin.so:system/lib/drm/libhtcomaplugin.so \
     vendor/htc/m8qlul/proprietary/lib/hw/audio.mirrorlink.default.so:system/lib/hw/audio.mirrorlink.default.so \
-    vendor/htc/m8qlul/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.vendor.msm8916.so \
+    vendor/htc/m8qlul/proprietary/lib/hw/camera.msm8916.so:vendor/lib/hw/camera.msm8916.so \
     vendor/htc/m8qlul/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/htc/m8qlul/proprietary/lib/hw/power.htc.so:system/lib/hw/power.htc.so \
     vendor/htc/m8qlul/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
