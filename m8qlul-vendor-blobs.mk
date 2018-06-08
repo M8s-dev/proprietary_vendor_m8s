@@ -171,7 +171,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libcamera_aec.so:system/lib/libcamera_aec.so \
     vendor/htc/m8qlul/proprietary/lib/libcamera_af.so:system/lib/libcamera_af.so \
     vendor/htc/m8qlul/proprietary/lib/libcamera_awb.so:system/lib/libcamera_awb.so \
-    vendor/htc/m8qlul/proprietary/lib/libcameraface.so:system/lib/libcameraface.so \
     vendor/htc/m8qlul/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
     vendor/htc/m8qlul/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/htc/m8qlul/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
