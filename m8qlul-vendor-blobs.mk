@@ -41,6 +41,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/htc/m8qlul/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
     vendor/htc/m8qlul/proprietary/bin/vm_bms:system/bin/vm_bms \
+    vendor/htc/m8qlul/proprietary/bin/perfd:system/bin/perfd \
     vendor/htc/m8qlul/proprietary/etc/RT5501:system/etc/RT5501 \
     vendor/htc/m8qlul/proprietary/etc/acdbdata/MTP/Bluetooth_cal.acdb:system/etc/acdbdata/MTP/Bluetooth_cal.acdb \
     vendor/htc/m8qlul/proprietary/etc/acdbdata/MTP/General_cal.acdb:system/etc/acdbdata/MTP/General_cal.acdb \
