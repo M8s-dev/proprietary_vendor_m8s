@@ -22,26 +22,12 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/bin/dpmd:system/bin/dpmd \
     vendor/htc/m8qlul/proprietary/bin/fm_qsoc_patches:system/bin/fm_qsoc_patches \
     vendor/htc/m8qlul/proprietary/bin/hal_proxy_daemon:system/bin/hal_proxy_daemon \
-    vendor/htc/m8qlul/proprietary/bin/hcheck-v2:system/bin/hcheck-v2 \
-    vendor/htc/m8qlul/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
     vendor/htc/m8qlul/proprietary/bin/imscmservice:system/bin/imscmservice \
-    vendor/htc/m8qlul/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/htc/m8qlul/proprietary/bin/mm-qcamera-app:system/bin/mm-qcamera-app \
-    vendor/htc/m8qlul/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/htc/m8qlul/proprietary/bin/msm_irqbalance:system/bin/msm_irqbalance \
-    vendor/htc/m8qlul/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/htc/m8qlul/proprietary/bin/nl_listener:system/bin/nl_listener \
-    vendor/htc/m8qlul/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
-    vendor/htc/m8qlul/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/htc/m8qlul/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/htc/m8qlul/proprietary/bin/radish:system/bin/radish \
-    vendor/htc/m8qlul/proprietary/bin/rfs_access:system/bin/rfs_access \
-    vendor/htc/m8qlul/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/htc/m8qlul/proprietary/bin/subsystem_ramdump:system/bin/subsystem_ramdump \
-    vendor/htc/m8qlul/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/htc/m8qlul/proprietary/bin/usb_uicc_client:system/bin/usb_uicc_client \
-    vendor/htc/m8qlul/proprietary/bin/vm_bms:system/bin/vm_bms \
-    vendor/htc/m8qlul/proprietary/bin/perfd:system/bin/perfd \
     vendor/htc/m8qlul/proprietary/etc/RT5501:system/etc/RT5501 \
     vendor/htc/m8qlul/proprietary/etc/acdbdata/MTP/Bluetooth_cal.acdb:system/etc/acdbdata/MTP/Bluetooth_cal.acdb \
     vendor/htc/m8qlul/proprietary/etc/acdbdata/MTP/General_cal.acdb:system/etc/acdbdata/MTP/General_cal.acdb \
@@ -260,6 +246,20 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib64/libhtc_rilhook.so:system/lib64/libhtc_rilhook.so \
     vendor/htc/m8qlul/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/htc/m8qlul/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
+    vendor/htc/m8qlul/proprietary/vendor/bin/hcheck-v2:system/vendor/bin/hcheck-v2 \
+    vendor/htc/m8qlul/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
+    vendor/htc/m8qlul/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
+    vendor/htc/m8qlul/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
+    vendor/htc/m8qlul/proprietary/vendor/bin/msm_irqbalance:system/vendor/bin/msm_irqbalance \
+    vendor/htc/m8qlul/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
+    vendor/htc/m8qlul/proprietary/vendor/bin/ptt_socket_app:system/vendor/bin/ptt_socket_app \
+    vendor/htc/m8qlul/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
+    vendor/htc/m8qlul/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
+    vendor/htc/m8qlul/proprietary/vendor/bin/rfs_access:system/vendor/bin/rfs_access \
+    vendor/htc/m8qlul/proprietary/vendor/bin/rmt_storage:system/vendor/bin/rmt_storage \
+    vendor/htc/m8qlul/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
+    vendor/htc/m8qlul/proprietary/vendor/bin/vm_bms:system/vendor/bin/vm_bms \
+    vendor/htc/m8qlul/proprietary/vendor/bin/perfd:system/vendor/bin/perfd \
     vendor/htc/m8qlul/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
     vendor/htc/m8qlul/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
     vendor/htc/m8qlul/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
