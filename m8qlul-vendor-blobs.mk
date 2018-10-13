@@ -178,6 +178,8 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libmorpho_image_transform.so:system/lib/libmorpho_image_transform.so \
     vendor/htc/m8qlul/proprietary/lib/libmorpho_jpeg_io.so:system/lib/libmorpho_jpeg_io.so \
     vendor/htc/m8qlul/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
+    vendor/htc/m8qlul/proprietary/lib/libmorpho_hyperlapse_jni_v6.so:system/lib/libmorpho_hyperlapse_jni_v6.so \
+    vendor/htc/m8qlul/proprietary/lib/libmorpho_render_util_v6.so:system/lib/libmorpho_render_util_v6.so \
     vendor/htc/m8qlul/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/htc/m8qlul/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/htc/m8qlul/proprietary/lib/librilutils.so:system/lib/librilutils.so \
