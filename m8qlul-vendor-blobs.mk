@@ -141,7 +141,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/drm/libhtcomaplugin.so:system/lib/drm/libhtcomaplugin.so \
     vendor/htc/m8qlul/proprietary/lib/hw/audio.mirrorlink.default.so:system/lib/hw/audio.mirrorlink.default.so \
     vendor/htc/m8qlul/proprietary/lib/hw/camera.msm8916.so:system/vendor/lib/hw/camera.msm8916.so \
-    vendor/htc/m8qlul/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/htc/m8qlul/proprietary/lib/hw/power.htc.so:system/lib/hw/power.htc.so \
     vendor/htc/m8qlul/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/htc/m8qlul/proprietary/lib/hw/wbc_hal.default.so:system/lib/hw/wbc_hal.default.so \
@@ -158,7 +157,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libcamerapp.so:system/lib/libcamerapp.so \
     vendor/htc/m8qlul/proprietary/lib/libcnefeatureconfig.so:system/lib/libcnefeatureconfig.so \
     vendor/htc/m8qlul/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
-    vendor/htc/m8qlul/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/htc/m8qlul/proprietary/lib/libhtc_depthmap.so:system/lib/libhtc_depthmap.so \
     vendor/htc/m8qlul/proprietary/lib/libhtc_loglevel.so:system/lib/libhtc_loglevel.so \
     vendor/htc/m8qlul/proprietary/lib/libhtc_ufocusprocess.so:system/lib/libhtc_ufocusprocess.so \
@@ -166,8 +164,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libhtcflag-jni.so:system/lib/libhtcflag-jni.so \
     vendor/htc/m8qlul/proprietary/lib/libhtcqxdm2sd.so:system/lib/libhtcqxdm2sd.so \
     vendor/htc/m8qlul/proprietary/lib/libhtcsecure.so:system/lib/libhtcsecure.so \
-    vendor/htc/m8qlul/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/htc/m8qlul/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/htc/m8qlul/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/htc/m8qlul/proprietary/lib/libmmcamera_ait9882proc.so:system/lib/libmmcamera_ait9882proc.so \
     vendor/htc/m8qlul/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
@@ -212,7 +208,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/htc/m8qlul/proprietary/lib64/drm/libhtcomaplugin.so:system/lib64/drm/libhtcomaplugin.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/audio.mirrorlink.default.so:system/lib64/hw/audio.mirrorlink.default.so \
-    vendor/htc/m8qlul/proprietary/lib64/hw/gps.default.so:system/lib64/hw/gps.default.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/power.htc.so:system/lib64/hw/power.htc.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/sensors.msm8916.so:system/lib64/hw/sensors.msm8916.so \
     vendor/htc/m8qlul/proprietary/lib64/hw/wbc_hal.default.so:system/lib64/hw/wbc_hal.default.so \
@@ -225,14 +220,11 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib64/libcamera_af.so:system/lib64/libcamera_af.so \
     vendor/htc/m8qlul/proprietary/lib64/libcamera_awb.so:system/lib64/libcamera_awb.so \
     vendor/htc/m8qlul/proprietary/lib64/libcnefeatureconfig.so:system/lib64/libcnefeatureconfig.so \
-    vendor/htc/m8qlul/proprietary/lib64/libgps.utils.so:system/lib64/libgps.utils.so \
     vendor/htc/m8qlul/proprietary/lib64/libhtc_loglevel.so:system/lib64/libhtc_loglevel.so \
     vendor/htc/m8qlul/proprietary/lib64/libhtcdrm1.so:system/lib64/libhtcdrm1.so \
     vendor/htc/m8qlul/proprietary/lib64/libhtcflag-jni.so:system/lib64/libhtcflag-jni.so \
     vendor/htc/m8qlul/proprietary/lib64/libhtcqxdm2sd.so:system/lib64/libhtcqxdm2sd.so \
     vendor/htc/m8qlul/proprietary/lib64/libhtcsecure.so:system/lib64/libhtcsecure.so \
-    vendor/htc/m8qlul/proprietary/lib64/libloc_core.so:system/lib64/libloc_core.so \
-    vendor/htc/m8qlul/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/htc/m8qlul/proprietary/lib64/libtuning_aec.so:system/lib64/libtuning_aec.so \
     vendor/htc/m8qlul/proprietary/lib64/libtuning_af.so:system/lib64/libtuning_af.so \
     vendor/htc/m8qlul/proprietary/lib64/libtuning_af_lc898212_imx214.so:system/lib64/libtuning_af_lc898212_imx214.so \
