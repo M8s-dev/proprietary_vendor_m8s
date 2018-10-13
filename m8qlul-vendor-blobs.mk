@@ -144,9 +144,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/lib/hw/power.htc.so:system/lib/hw/power.htc.so \
     vendor/htc/m8qlul/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/htc/m8qlul/proprietary/lib/hw/wbc_hal.default.so:system/lib/hw/wbc_hal.default.so \
-    vendor/htc/m8qlul/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/htc/m8qlul/proprietary/lib/libBeautyChat.so:system/lib/libBeautyChat.so \
-    vendor/htc/m8qlul/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
     vendor/htc/m8qlul/proprietary/lib/libalDE.so:system/lib/libalDE.so \
     vendor/htc/m8qlul/proprietary/lib/libalDynamicWarping.so:system/lib/libalDynamicWarping.so \
     vendor/htc/m8qlul/proprietary/lib/libalIAF.so:system/lib/libalIAF.so \
@@ -552,13 +550,10 @@ PRODUCT_COPY_FILES += \
     vendor/htc/m8qlul/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
-    vendor/htc/m8qlul/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
-    vendor/htc/m8qlul/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
-    vendor/htc/m8qlul/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/liblistensoundmodel2.so:system/vendor/lib/liblistensoundmodel2.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libllvm-qcom.so:system/vendor/lib/libllvm-qcom.so \
     vendor/htc/m8qlul/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
